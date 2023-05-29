@@ -421,6 +421,7 @@ ul.email li img {
 .about {
      background: url(../images/about_bg.jpg);
      background-repeat: no-repeat;
+     background-size: cover;
      background-position: center;
      min-height: 916px;
      display: flex;
@@ -965,7 +966,6 @@ ul.social_icon li a:hover {
 
 .copyright p {
      margin-top: 54px;
-     color: #050404;
      padding: 20px 0px;
      border-top: dashed #818181 2px;
 }
@@ -977,6 +977,16 @@ ul.social_icon li a:hover {
 .copyright a:hover {
      color: #00aeef;
 }
+.img-custom {
+  width: 200px; /* Defina o tamanho desejado */
+  height: auto; /* Para manter a proporção original da imagem */
+}
+
+
+
+
+
+
 
 
 /** end footer **/
