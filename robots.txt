@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /testimonial.html
+Sitemap: https://www.conectarambiental.com.br/sitemap.xml
