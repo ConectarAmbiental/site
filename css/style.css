@@ -269,7 +269,7 @@ ul.email li:last-child {
 
 ul.email li a {
      color: #fff;
-     background: #0e90ed;
+     background: #183248;
      padding: 10px 31px;
      font-size: 17px;
      font-weight: 600;
@@ -307,18 +307,18 @@ ul.email li img {
 .sidepanel a {
      padding: 8px 8px 8px 32px;
      text-decoration: none;
-     font-size: 25px;
+     font-size: 20px;
      color: #fff;
      display: block;
      transition: 0.3s;
 }
 
 .sidepanel a:hover {
-     color: #0e90ed;
+     color: #183248;
 }
 
 .sidepanel a.active {
-     color: #0e90ed;
+     color: #183248;
 }
 
 .sidepanel .closebtn {
@@ -367,7 +367,7 @@ ul.email li img {
 #myCarousel a.carousel-control-next:hover,
 #myCarousel a.carousel-control-prev:focus,
 #myCarousel a.carousel-control-prev:hover {
-     background: #0e90ed;
+     background: #183248;
      opacity: 1;
 }
 
@@ -385,7 +385,7 @@ ul.email li img {
 }
 
 .banner_main .bluid h1 {
-     color: #0e90ed;
+     color: #183248;
      font-size: 101px;
      line-height: 115px;
      font-weight: bold;
@@ -468,7 +468,7 @@ ul.email li img {
 
 .read_more {
      display: block;
-     background: #0e90ed;
+     background: #183248;
      color: #fff;
      max-width: 215px;
      height: 70px;
@@ -549,7 +549,7 @@ ul.email li img {
 #bird1 a.carousel-control-next:hover,
 #bird1 a.carousel-control-prev:focus,
 #bird1 a.carousel-control-prev:hover {
-     background: #0e90ed;
+     background: #183248;
      color: #fff;
      opacity: 1;
 }
@@ -585,7 +585,7 @@ ul.email li img {
 #bird2 a.carousel-control-next:hover,
 #bird2 a.carousel-control-prev:focus,
 #bird2 a.carousel-control-prev:hover {
-     background: #0e90ed;
+     background: #183248;
      color: #fff;
      opacity: 1;
 }
@@ -621,7 +621,7 @@ ul.email li img {
 #bird3 a.carousel-control-next:hover,
 #bird3 a.carousel-control-prev:focus,
 #bird3 a.carousel-control-prev:hover {
-     background: #0e90ed;
+     background: #183248;
      color: #fff;
      opacity: 1;
 }
@@ -659,7 +659,7 @@ ul.email li img {
 #bird4 a.carousel-control-next:hover,
 #bird4 a.carousel-control-prev:focus,
 #bird4 a.carousel-control-prev:hover {
-     background: #0e90ed;
+     background: #183248;
      color: #fff;
      opacity: 1;
 }
@@ -858,11 +858,15 @@ ul.email li img {
      box-shadow: 0px 0px 18px rgba(22, 22, 23, 0.11);
      height: 109px;
 }
-
+.dropdown-menu{
+    background-color: #183248;
+    margin-top: 270px;
+    margin-left: 130px;
+  }
 .main_form .send_btn {
      font-size: 30px;
      transition: ease-in all 0.5s;
-     background-color: #000000;
+     background-color: #183248;
      text-transform: uppercase;
      color: #fff;
      padding: 17px 0px;
@@ -993,7 +997,7 @@ ul.social_icon li a:hover {
 
 
 /*- - ener page css--*/
-.inner_page header {box-shadow: 0 -3px 12px 0px #0e90ed;}
+.inner_page header {box-shadow: 0 -3px 12px 0px #183248;}
 
 
 
