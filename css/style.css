@@ -347,7 +347,11 @@ ul.email li img {
 .carousel-indicators {
      display: none;
 }
-
+@media (min-width: 992px) {
+    .alingn-carousel {
+        padding-left: 90px;
+    }
+}
 #myCarousel a.carousel-control-next,
 #myCarousel a.carousel-control-prev {
      background: #000000;
@@ -1001,7 +1005,7 @@ ul.social_icon li a:hover {
 
 
 
- .testimonial, .contact, .birds {
+ .testimonial, .contact, .birds, .sobre {
      margin-top: 90px;
 }
 
