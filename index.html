@@ -50,8 +50,8 @@ Conte com a Conectar Ambiental para obter soluções confiáveis e eficientes em
 <!-- end loader -->
 <div id="mySidepanel" class="sidepanel">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-    <a href="index.html">Home</a>
-    <a class="active" href="about.html">About</a>
+    <a href="index.html">Inicio</a>
+    <a class="active" href="about.html">Sobre</a>
     <a href="birds.html">Our Birds</a>
     <a href="testimonial.html">Testimonial</a>
     <a href="contact.html">Contact</a>
@@ -63,14 +63,14 @@ Conte com a Conectar Ambiental para obter soluções confiáveis e eficientes em
     <div class="container text-center">
         <div class="row justify-content-between">
             <div class="col-md-5 col-sm-12 d-flex justify-content-center logotipo">
-                <a href="conectar-ambiental.html" >
+                <a data-toggle="tooltip" title="Consultoria e Educação" href="conectar-ambiental.html" >
                     <div style="width: 200px; height: 200px; padding: 0px 0px 20px 0px;">
                         <img src="images/logo-conectar-ambiental-branco.png" alt="logo conectar ambiental" class="img-fluid rounded-circle">
                     </div>
                 </a>
             </div>
             <div class="col-md-5 col-sm-12 d-flex justify-content-center ">
-                <a href="conectar-trilha-guaratuba.html">
+                <a data-toggle="tooltip" title="Receptivo Turistico Guia e Birdingwatching" href="conectar-trilha-guaratuba.html">
                     <div style="width: 200px; height: 200px; padding: 0px 0px 20px 0px;">
                         <img src="images/logo-conectar-trilha-guaratuba-branco.png" alt="Logo conectar trilha de guaratuba" class="img-fluid rounded-circle">
                     </div>
@@ -114,6 +114,11 @@ Conte com a Conectar Ambiental para obter soluções confiáveis e eficientes em
 </footer>
 <!-- end footer -->
 <!-- Javascript files-->
+<script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/jquery-3.0.0.min.js"></script>
