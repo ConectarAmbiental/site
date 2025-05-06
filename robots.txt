@@ -1,3 +1,25 @@
 User-agent: *
 Disallow: /testimonial.html
+Allow: /$
+Allow: /sobre.html
+Allow: /servicos.html
+Allow: /contato.html
+
+# Diretivas para indexadores específicos
+User-agent: DeepSeekBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Crawl-delay: 3
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /testimonial.html
+
+# Sitemaps
 Sitemap: https://www.conectarambiental.com.br/sitemap.xml
+Sitemap: https://www.conectarambiental.com.br/sitemap-news.xml

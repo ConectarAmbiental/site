@@ -1,0 +1,10 @@
+# AI.TXT - Política para Ferramentas de IA
+Permitted:
+    user-agent: DeepSeekBot
+    user-agent: ChatGPT-User
+    user-agent: Google-Extended
+    allow: /
+
+Disallowed:
+    user-agent: *
+    paths: /private/

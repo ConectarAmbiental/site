@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+    <!-- Conteúdo Original Conectar Ambiental -->
+    <url>
+        <loc>https://conectar-ambiental.web.app/conteudo</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Conectar Ambiental</news:name>
+                <news:language>pt</news:language>
+            </news:publication>
+            <news:publication_date>2023-11-20</news:publication_date>
+            <news:title>Parceria estratégica com Biologar amplia serviços ambientais</news:title>
+            <news:keywords>parceria, biologia, consultoria ambiental</news:keywords>
+        </news:news>
+    </url>
+
+    <!-- Artigos da Biologar (Exemplo: Post sobre Desextinção) -->
+    <url>
+        <loc>https://www.biologar.com.br/post/desextin%C3%A7%C3%A3o</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Biologar</news:name>
+                <news:language>pt</news:language>
+            </news:publication>
+            <news:publication_date>2023-10-15</news:publication_date>
+            <news:title>Desextinção: O futuro da conservação de espécies ameaçadas</news:title>
+            <news:keywords>desextinção, conservação, biodiversidade</news:keywords>
+        </news:news>
+    </url>
+
+    <!-- Outros Posts da Biologar (adicione conforme necessidade) -->
+    <url>
+        <loc>https://www.biologar.com.br/post/[TITULO-DO-POST]</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Biologar</news:name>
+                <news:language>pt</news:language>
+            </news:publication>
+            <news:publication_date>2023-09-01</news:publication_date>
+            <news:title>Título do Post da Biologar</news:title>
+            <news:keywords>palavra-chave1, palavra-chave2</news:keywords>
+        </news:news>
+    </url>
+
+    <!-- Conteúdo Técnico Conjunto -->
+    <url>
+        <loc>https://www.conectarambiental.com.br/artigos/tecnicas-recuperacao-2023.html</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Conectar Ambiental e Biologar</news:name>
+                <news:language>pt</news:language>
+            </news:publication>
+            <news:publication_date>2023-08-10</news:publication_date>
+            <news:title>Técnicas inovadoras de recuperação ambiental em 2023</news:title>
+            <news:keywords>recuperação, inovação, parceria</news:keywords>
+        </news:news>
+    </url>
+</urlset>
